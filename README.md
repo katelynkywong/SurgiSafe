@@ -21,5 +21,5 @@ The skin microbiome plays a crucial role in health, but when harmful bacteria li
 To get started with the project, follow these steps:
 
 1. Build Circuit
-2. Download Code (_____)
-3. Run in Arduino IDE (version _____)
+2. Download Code (SurgiSafe.ino)
+3. Run in Arduino IDE 
